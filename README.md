@@ -12,7 +12,7 @@ This Python project involves web scraping data from the Brazilian Football Leagu
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/guibedan/covid-data.git
+   git clone https://github.com/guibedan/brasileiraoAnalysis.git
    cd brasileiraoAnalysis
    ```
 2. **Install the dependencies:**
